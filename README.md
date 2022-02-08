@@ -1,5 +1,5 @@
 # list-fake-it-solutions
-A blocklist of identified fake IT solution websites to promote their product
+A blocklist of identified fake IT solution websites (Articles could be useless or promoting products)
 
 This is list is managed manualy.
 
